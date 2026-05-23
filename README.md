@@ -65,5 +65,8 @@ graph TD
     C --> C1[Buttons, Tables, Toggles, Uploaders]
     D --> D1[Step-by-step Officer Interactions]
 
+---
 
+**## Logo Prompt
+**A icon-style app icon design for an application: designed to solve institutional turnover, siloed workflows. The logo is a simple campfire with the text "Campfire" which is centered, set against a black background with simple details. High-resolution game art and graphics for a mobile app. Pictorial style 
 
