@@ -68,10 +68,8 @@ graph TD
 
 
 
-# Campfire — Student Member Hub (Companion App)
+## Campfire — Student Member Hub (Companion App)
 
-[![Role: Senior UX/UI & Product](https://img.shields.io/badge/Role-Senior_UX%2FUI_Template-orange?style=flat-square)]()
-[![Target: Student Members](https://img.shields.io/badge/Target-Member_Engagement-green?style=flat-square)]()
 
 A comprehensive product blueprint and UI/UX prompt specification for the **Member User Side** of **Campfire**. While the core platform handles administrative tasks for executive boards, this companion hub focuses entirely on the everyday student member—prioritizing mobile-first accessibility, gamified engagement, clear personalized task views, and frictionless feedback loops.
 
