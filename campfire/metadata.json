@@ -1,0 +1,6 @@
+{
+  "name": "Campfire",
+  "description": "A unified operating system and member engagement platform for student organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
